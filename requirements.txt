@@ -1,0 +1,6 @@
+streamlit
+arxiv
+requests
+gnews
+openai
+python-docx
