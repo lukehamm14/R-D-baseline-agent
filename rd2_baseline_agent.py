@@ -200,11 +200,3 @@ if st.button("Generate Report"):
                 st.download_button("Download DOCX Report", f, file_name=filename)
         except Exception as e:
             st.error(f"An error occurred: {e}")
-
-pip install --upgrade openai
-
-!pip install arxiv scholarly gnews openai fpdf python-docx requests
-
-!pip install streamlit
-
-!pip install python-docx
