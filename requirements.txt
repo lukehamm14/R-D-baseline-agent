@@ -1,6 +1,6 @@
 streamlit
+openai
 arxiv
 requests
 gnews
-openai
 python-docx
